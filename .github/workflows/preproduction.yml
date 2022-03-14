@@ -27,6 +27,8 @@ jobs:
     name: Deploy preproduction
     runs-on: ubuntu-latest
     needs: [register-app]
+    environment:
+      name: preproduction
     steps:
       - name: Use autodevops deployment
         uses: SocialGouv/actions/autodevops-helm-deploy@v1
