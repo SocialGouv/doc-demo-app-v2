@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/SocialGouv/doc-demo-app-v2/compare/v1.1.0...v1.2.0) (2022-03-17)
+
+
+### Features
+
+* Update readme ([137849e](https://github.com/SocialGouv/doc-demo-app-v2/commit/137849e8dd9160b74eb231c0dae47367b357fbca))
+
 # [1.1.0](https://github.com/SocialGouv/doc-demo-app-v2/compare/v1.0.0...v1.1.0) (2022-03-17)
 
 
