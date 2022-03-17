@@ -29,7 +29,7 @@ jobs:
     needs: [register-app]
     environment:
       name: preproduction
-      url: https://doc-demo-app-v2.preprod.fabrique.social.gouv.fr/
+      url: https://doc-demo-app-v2-preprod.dev.fabrique.social.gouv.fr/
     steps:
       - name: Use kube-workflow deployment
         uses: SocialGouv/kube-workflow@master
