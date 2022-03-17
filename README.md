@@ -1,2 +1,2 @@
 Demo app used for documentation
-v2
+v3
