@@ -1,6 +1,5 @@
-components:
-  app: true
-
 app:
+  enabled: true
   imagePackage: app
   probesPath: /healthz
+  replicas: 1
