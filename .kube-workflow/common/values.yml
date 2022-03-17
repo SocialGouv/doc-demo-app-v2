@@ -1,0 +1,5 @@
+app:
+  enabled: true
+  imagePackage: app
+  probesPath: /api/healthz
+  replicas: 1
