@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/SocialGouv/doc-demo-app-v2/compare/v1.3.0...v1.4.0) (2022-03-18)
+
+
+### Features
+
+* new home page ([303cecd](https://github.com/SocialGouv/doc-demo-app-v2/commit/303cecdb4141590d2945f8318dd338639cfa67ef))
+
 # [1.3.0](https://github.com/SocialGouv/doc-demo-app-v2/compare/v1.2.0...v1.3.0) (2022-03-17)
 
 
