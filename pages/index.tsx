@@ -22,7 +22,7 @@ const Home: NextPage = () => {
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
-        <p>v1</p>
+        <p>v2</p>
 
       </main>
     </div>
